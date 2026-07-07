@@ -1,0 +1,6 @@
+{
+  "name": "Personal Operating System",
+  "description": "A smart personal assistant and workspace to organize your notes, plan projects, generate creative content, and manage workflows with ease.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
